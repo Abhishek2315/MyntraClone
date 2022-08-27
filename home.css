@@ -301,7 +301,11 @@ h4{
         /* background-color: rgb(206, 141, 206); */
     }
     .searchbox{
-        width: 35vh;
+        width: 32vh;
+        margin-right: -3vh;
+    }
+    .nav-last{
+        margin-right: 10px;
     }
     .section1{
         width: 125vh;
@@ -319,7 +323,7 @@ h4{
     }
     .categories-img-container img{
         align-items: center;
-        width: 30vw;
+        width: 33vw;
         margin: 1%;
         margin-right: 17px;
     
@@ -328,6 +332,6 @@ h4{
         width: 125vh;
     }
     .footer-container{
-        width: 125vh;
+        width: 115vh;
     }
 }
