@@ -342,7 +342,7 @@ h4{
     .container{
         position: sticky;
         top: 0;
-        width: 125vh;
+        width: 143vh;
         /* background-color: green; */
     }
     body{
@@ -360,13 +360,13 @@ h4{
         margin-right: 10px;
     }
     .section1{
-        width: 125vh;
+        width: 143vh;
     }
     .slider{
-        width: 125vh;
+        width: 143vh;
     }
     .midbody{
-        width: 125vh;
+        width: 143vh;
     }
     .img-link-container img{
         align-items: center;
@@ -381,7 +381,7 @@ h4{
     
     }
     footer{
-        width: 125vh;
+        width: 143vh;
     }
     .footer-container{
         width: 115vh;
