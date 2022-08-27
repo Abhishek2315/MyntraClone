@@ -1,0 +1,40 @@
+/* All Classes of this sheet can be usable many times */
+
+
+.flex{
+    display: flex;
+    
+}
+
+.item-center{
+    align-items: center;
+
+}
+.justify-content{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+
+/* TO make text in UPPERCase */
+.uppercase{
+    text-transform: uppercase;
+}
+
+/* To make text Bold */
+.semibold{
+    font-weight:bolder;
+}
+
+/* mx-2 is used to make space between icons */
+.mx-2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.fade{
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
