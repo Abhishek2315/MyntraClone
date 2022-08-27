@@ -291,7 +291,7 @@ h4{
     .container{
         position: sticky;
         top: 0;
-        width: 116vh;
+        width: 125vh;
         /* background-color: green; */
     }
     body{
@@ -301,13 +301,13 @@ h4{
         /* background-color: rgb(206, 141, 206); */
     }
     .section1{
-        width: 116vh;
+        width: 125vh;
     }
     .slider{
-        width: 116vh;
+        width: 125vh;
     }
     .midbody{
-        width: 116vh;
+        width: 125vh;
     }
     .img-link-container img{
         align-items: center;
@@ -317,14 +317,14 @@ h4{
     .categories-img-container img{
         align-items: center;
         width: 30vw;
-        margin: 1.2%;
+        margin: 1%;
         margin-right: 17px;
     
     }
     footer{
-        width: 116vh;
+        width: 125vh;
     }
     .footer-container{
-        width: 116vh;
+        width: 125vh;
     }
 }
