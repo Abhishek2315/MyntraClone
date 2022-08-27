@@ -300,6 +300,9 @@ h4{
         height: 100%;
         /* background-color: rgb(206, 141, 206); */
     }
+    .searchbox{
+        width: 35vh;
+    }
     .section1{
         width: 125vh;
     }
